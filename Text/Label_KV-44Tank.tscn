@@ -1,0 +1,7 @@
+[gd_scene format=2]
+
+[node name="Label_KV-44" type="Label"]
+margin_left = 0.681122
+margin_right = 40.6811
+margin_bottom = 14.0
+text = "KV-44"
